@@ -1,0 +1,22 @@
+# Rust ビルド成果物
+/target
+Cargo.lock
+
+# デバッグ・テンポラリファイル
+*.pdb
+*.log
+
+# IDE設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS固有
+.DS_Store
+Thumbs.db
+
+# テストカバレッジ
+*.profraw
+*.profdata
